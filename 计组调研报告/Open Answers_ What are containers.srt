@@ -1,0 +1,48 @@
+1
+00:00:05,040 --> 00:00:07,119
+Containers are linux technology
+
+2
+00:00:07,119 --> 00:00:09,927
+that allow you to package and isolate applications
+
+3
+00:00:09,927 --> 00:00:12,682
+along with their entire runtime environment.
+
+4
+00:00:12,682 --> 00:00:16,283
+Container images package all the libraries
+
+5
+00:00:16,283 --> 00:00:17,533
+and dependencies and application needs
+
+6
+00:00:17,533 --> 00:00:20,087
+so you can ship a complete application as one package.
+
+7
+00:00:20,087 --> 00:00:23,845
+Containers don't require an entire operating system
+
+8
+00:00:23,845 --> 00:00:24,345
+like VMs do.
+
+9
+00:00:24,345 --> 00:00:28,286
+Only the exact components it needs in order to operate.
+
+10
+00:00:28,286 --> 00:00:31,160
+This provides ease of deployment for operations
+
+11
+00:00:31,230 --> 00:00:34,544
+and confidence for developers that their application will run the same
+
+12
+00:00:34,544 --> 00:00:37,250
+on many different platforms or operating systems
+

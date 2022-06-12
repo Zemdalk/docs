@@ -1,0 +1,164 @@
+1
+00:00:00,060 --> 00:00:01,860
+Let me think about that ...
+
+2
+00:00:01,860 --> 00:00:03,060
+How I'd best describe it?
+
+3
+00:00:03,060 --> 00:00:06,900
+So perhaps think of your existing applications
+
+4
+00:00:06,900 --> 00:00:11,840
+as this old place.
+
+5
+00:00:11,840 --> 00:00:15,320
+For a long time people there were happy.
+
+6
+00:00:15,320 --> 00:00:22,680
+They came up with new ideas.
+
+7
+00:00:22,680 --> 00:00:27,320
+They were productive.
+
+8
+00:00:27,320 --> 00:00:30,420
+And everything prospered.
+
+9
+00:00:30,420 --> 00:00:33,820
+But then things started to change.
+
+10
+00:00:33,820 --> 00:00:35,960
+People needed new ideas faster.
+
+11
+00:00:35,960 --> 00:00:38,420
+Applications were built in a traditional way
+
+12
+00:00:38,420 --> 00:00:40,100
+you'd call them "monolithic".
+
+13
+00:00:40,100 --> 00:00:42,040
+In simple words they were just big
+
+14
+00:00:42,040 --> 00:00:44,800
+and complex and a little bit nasty.
+
+15
+00:00:44,800 --> 00:00:46,800
+Hard to manage and maintain.
+
+16
+00:00:46,800 --> 00:00:48,780
+Incredibly difficult to get people excited
+
+17
+00:00:48,780 --> 00:00:51,800
+to work on developing new services
+
+18
+00:00:51,800 --> 00:00:54,120
+and transforming organizations.
+
+19
+00:00:54,120 --> 00:00:55,960
+Then they heard of a place where
+
+20
+00:00:55,960 --> 00:00:59,020
+new ideas flourished and people were excited
+
+21
+00:00:59,020 --> 00:01:00,640
+to bring them to life.
+
+22
+00:01:00,640 --> 00:01:04,580
+This is the land of cloud native application development.
+
+23
+00:01:04,580 --> 00:01:07,000
+They were collaborating with each other a lot more.
+
+24
+00:01:07,000 --> 00:01:10,800
+They were bringing new innovation and new ideas out.
+
+25
+00:01:10,800 --> 00:01:12,940
+You didn't feel like, you know, when you were
+
+26
+00:01:12,940 --> 00:01:14,960
+in these places you were always responding to change,
+
+27
+00:01:14,960 --> 00:01:16,540
+you were the change.
+
+28
+00:01:19,580 --> 00:01:22,780
+It's DevOps.
+
+29
+00:01:22,780 --> 00:01:25,080
+It's containers.
+
+30
+00:01:25,080 --> 00:01:27,560
+It's microservices.
+
+31
+00:01:27,560 --> 00:01:30,860
+And it's hybrid cloud.
+
+32
+00:01:30,860 --> 00:01:32,580
+It's really about changing your mindset
+
+33
+00:01:32,580 --> 00:01:35,260
+to embrace, you know, what's important with regard
+
+34
+00:01:35,260 --> 00:01:37,440
+to building application services quicker.
+
+35
+00:01:37,440 --> 00:01:39,460
+At Red Hat, we help organizations
+
+36
+00:01:39,460 --> 00:01:41,480
+make strides in all of these areas and go
+
+37
+00:01:41,480 --> 00:01:43,400
+from spending the majority of their time
+
+38
+00:01:43,400 --> 00:01:45,580
+focused on maintenance,
+
+39
+00:01:45,580 --> 00:01:47,580
+to prioritizing building new things
+
+40
+00:01:47,580 --> 00:01:50,340
+and growing their businesses.
+
+41
+00:01:50,340 --> 00:01:53,540
+And that is cloud native app development.
+
